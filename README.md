@@ -17,5 +17,6 @@ dãy 3 kí hiệu, ngang dọc hay chéo đều được.
 4. Các kĩ thuật: mảng, con trỏ, đồ hoạ, sử dụng thư viện để load ảnh, xử lí sự kiện chuột.
 
 # Kết luận
-Sau ghi làm xong game này, em thấy rất vui vì bản thân đã làm được một "phần mềm" theo ý mình, tuy không quá phức tạp, đồ hoạ có phần hơi xấu. Tuy nhiên trong tương lai em sẽ cố gắng cải tiến nó bằng cách thêm các tính năng như nhạc nền, AI có nhiều độ khó hơn, có thể chơi PvP qua mạng, có hoạt ảnh đẹp hơn, thay đổi được kích thước bàn cờ, ...
-Điều em rút ra được là, giới hạn duy nhất chính là trí óc của mình, chỉ cần có ý tưởng, ta có thể sáng tạo rất nhiều thứ với những công cụ lập trình này.
+-Sau ghi làm xong game này, em thấy rất vui vì bản thân đã làm được một "phần mềm" theo ý mình, tuy không quá phức tạp, đồ hoạ có phần hơi xấu. Tuy nhiên trong tương lai em sẽ cố gắng cải tiến và hoàn thiện nó.
+-Hướng cải tiến: thêm nhạc nền, AI có nhiều độ khó hơn, có thể chơi PvP qua mạng, có hoạt ảnh đẹp hơn, thay đổi được kích thước bàn cờ, ...
+-Điều em rút ra được là, giới hạn duy nhất chính là trí óc của mình, chỉ cần có ý tưởng, ta có thể sáng tạo rất nhiều thứ với những công cụ lập trình này.
